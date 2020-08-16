@@ -1,0 +1,11 @@
+# create a function that will take the sum of a b
+#add if statements so that having an a value or b value greater than 20 will not be allowed
+
+ def num2(a,b):
+    if a > 20: 
+        print ("Pick a different a value")
+    elif b > 20: 
+        print ("Pick a different B value")
+    else:
+        return a+b
+    
