@@ -1,0 +1,7 @@
+#Addition Class
+
+def num(a,b): 
+'''
+returns the sum of a and b
+'''
+a+b
