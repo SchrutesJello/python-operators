@@ -1,4 +1,4 @@
-# python-operators
-Simple Numeric Operators for Python
+# Addition Problems
+Addition Problems in Python
 
-Problems for Self-Practice 
+
